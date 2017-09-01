@@ -1,4 +1,4 @@
-# Sketch City
+# Sketch City (Team 9)
 ## 1. Team Contract
 ## 2. Milestones
 ## 3. Labs
