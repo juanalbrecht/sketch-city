@@ -3,4 +3,4 @@
 #### 2. Milestones
 #### 3. Labs
 #### 4. Tutorials
-#### 5. [Meeting Minutes](minutes.md)
+#### 5. [Meeting Minutes](minutes/minutes.md)
