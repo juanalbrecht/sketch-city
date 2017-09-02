@@ -64,9 +64,9 @@ ___
 * I understand that I am obligated to abide by these terms and conditions.
 * I understand that if I do not abide by these terms and conditions, I will suffer the consequences as stated in this contract.
 
-Eric Berg 		date: 09/01/2017  
-Christine Zhouyi 	date: 09/01/2017   
-Alex Katz		date: 09/01/2017   
-Yazhi Fan		date: 09/01/2017   
-Juan Joel Albrecht	date: 09/01/2017   
+1. Eric Berg............date: 09/01/2017  
+2. Christine Zhouyi.....date: 09/01/2017   
+3. Alex Katz............date: 09/01/2017   
+4. Yazhi Fan............date: 09/01/2017   
+5. Juan Joel Albrecht...date: 09/01/2017   
 
