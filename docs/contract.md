@@ -52,11 +52,11 @@ Anyone who discovers other members who are not living up to this contract should
 Anyone who discovers other members who are not living up to this contract should remind them. If these infractions continues, it will be discussed during team meetings. Team should notify course staff if problems become extreme.
 
 ## Team Leader Schedule
-Aug 28th - Sep 15th (Lab 1, work on lab 2): Juan
-Sep 16th - Sep 29th (Lab 2, Milestone 1 and 2):  Yazhi
-Sep 30th - Oct 20th (Lab 3, work on lab 4): Eric
-Oct 21st - Nov 3rd (Lab 4 and Milestone 3): Alex
-Nov 4th - Nov 17th (Milestone 4): Christine   
+* Aug 28th - Sep 15th (Lab 1, work on lab 2): Juan
+* Sep 16th - Sep 29th (Lab 2, Milestone 1 and 2):  Yazhi
+* Sep 30th - Oct 20th (Lab 3, work on lab 4): Eric
+* Oct 21st - Nov 3rd (Lab 4 and Milestone 3): Alex
+* Nov 4th - Nov 17th (Milestone 4): Christine   
 
 ___
 ___
