@@ -65,6 +65,8 @@ ___
 
 ___   
 
+## Agreement
+
 * I participated in formulating the standards, roles, and procedures as stated in this contract.
 * I understand that I am obligated to abide by these terms and conditions.
 * I understand that if I do not abide by these terms and conditions, I will suffer the consequences as stated in this contract.
