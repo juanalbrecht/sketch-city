@@ -33,7 +33,7 @@ Anyone who discovers other members who are not living up to this contract should
 ### Work Quality
 * Website should be updated at least once every week by Juan and Alex 
 * At least one design review will be held before each Milestone
-* Any individual’s task should be functionally completed one day before the deadline
+* Any individual’s task should be functionally completed one day before the deadline  
 ### Strategies to fulfill these standards
 #### Team Participation
 1. To ensure cooperation and equal distribution of tasks, we will set plan, clarify tasks, and maintain good communications. Tasks should be assigned at the end of each meeting, so all members know what they are responsible for during the following week. Major or key tasks should be assigned to at least two people to ensure that they will be completed on time to expectation. 
@@ -51,7 +51,7 @@ Anyone who discovers other members who are not living up to this contract should
 #### Consequences for Failing to Follow Procedures and Fulfill Expectations
 Anyone who discovers other members who are not living up to this contract should remind them. If these infractions continues, it will be discussed during team meetings. Team should notify course staff if problems become extreme.
 
-## Team Leader # Sketch City TeaSchedule
+## Team Leader Schedule
 Aug 28th - Sep 15th (Lab 1, work on lab 2): Juan
 Sep 16th - Sep 29th (Lab 2, Milestone 1 and 2):  Yazhi
 Sep 30th - Oct 20th (Lab 3, work on lab 4): Eric
