@@ -33,7 +33,8 @@ Anyone who discovers other members who are not living up to this contract should
 ### Work Quality
 * Website should be updated at least once every week by Juan and Alex 
 * At least one design review will be held before each Milestone
-* Any individual’s task should be functionally completed one day before the deadline  
+* Any individual’s task should be functionally completed one day before the deadline    
+
 ### Strategies to fulfill these standards
 
 #### Team Participation
@@ -58,9 +59,12 @@ Anyone who discovers other members who are not living up to this contract should
 * Sep 30th - Oct 20th (Lab 3, work on lab 4): Eric
 * Oct 21st - Nov 3rd (Lab 4 and Milestone 3): Alex
 * Nov 4th - Nov 17th (Milestone 4): Christine   
-* Nov 18th - Dec 5th (Final competition and deadline for the website): Eric
-___
-___
+* Nov 18th - Dec 5th (Final competition and deadline for the website): Eric   
+
+___   
+
+___   
+
 * I participated in formulating the standards, roles, and procedures as stated in this contract.
 * I understand that I am obligated to abide by these terms and conditions.
 * I understand that if I do not abide by these terms and conditions, I will suffer the consequences as stated in this contract.
